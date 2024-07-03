@@ -1,5 +1,6 @@
 package day1;
 
+//インスタンスを生成しなくても利用できる→静的メンバ
 //静的メンバもつクラス
 public class SampleClassEx01 {
 private int value = 0;              //  インスタンスフィールド
